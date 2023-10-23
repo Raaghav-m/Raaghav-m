@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Raaghav-m
+- 👋 Hi,it's @Raaghav-m
 - 👀 I’m interested in web dev,web3 and blockchain
-- 🌱 I’m currently learning javascript
+- 🌱 currently learning javascript
 
 <!---
 Raaghav-m/Raaghav-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
