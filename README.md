@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,Solidity,Hardhat**
 
-- 📫 How to reach me **raaghavmanivel2005@gmail.com**
+- 📫 Reach me at **raaghavmanivel2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
